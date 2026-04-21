@@ -25,3 +25,8 @@ cd r3dback-spyd3rbot-v0.0.2
   ```bash
 python r3dback-spyd3rbot-v0.0.2.py
 ```
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Iankulani/r3dback-spyd3rbot-v0.0.2&type=Date)](https://star-history.com/#Iankulani/r3dback-spyd3rbot-v0.0.2&Date)
+
